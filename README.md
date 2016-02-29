@@ -1,6 +1,6 @@
 # ARG_MRG_Coselection
 
-These scripts and data are associated with a submitted manuscript:
+The scripts are associated with a submitted manuscript:
 
 **Genomic analysis of antibiotic resistance genes (ARGs) and metal resistance genes (MRGs) co-occurrence**
 
