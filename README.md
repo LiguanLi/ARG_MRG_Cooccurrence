@@ -2,7 +2,7 @@
 
 These scripts and data are associated with a submitted manuscript:
 
-# Genomic analysis of antibiotic resistance genes (ARGs) and metal resistance genes (MRGs) co-occurrence
+**Genomic analysis of antibiotic resistance genes (ARGs) and metal resistance genes (MRGs) co-occurrence
 
 Li-Guan Li1,+, Yu Xia1,+, Tong Zhang1,*
 
