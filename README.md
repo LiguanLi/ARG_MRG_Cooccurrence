@@ -12,4 +12,4 @@ Li-Guan Li1,\#, Yu Xia1,\#, Tong Zhang1,*
 
 *: Correspondence author
 
-Address: Environmental Biotechnology Laboratory, Department of Civil Engineering, The University of Hong Kong, Hong Kong SAR, China    Phone: +852-2857 8551    Fax: +852-2859 8987   Email: zhangt@hku.hk
+Address: Environmental Biotechnology Laboratory, Department of Civil Engineering, The University of Hong Kong, Hong Kong SAR, China\tPhone: +852-2857 8551    Fax: +852-2859 8987   Email: zhangt@hku.hk
