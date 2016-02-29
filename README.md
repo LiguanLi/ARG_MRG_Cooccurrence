@@ -1,4 +1,4 @@
-# ARG_MRG_Coselection
+# ARG_MRG_Cooccurrence
 
 The scripts are associated with a submitted manuscript:
 
